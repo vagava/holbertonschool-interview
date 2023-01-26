@@ -1,5 +1,0 @@
-0-main.py
-0-minoperations.py
-Infodir.txt
-README.md
-script_loadproyect.sh
