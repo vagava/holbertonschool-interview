@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* ============= Prototype ================ */
 int is_palindrome(unsigned long n);
 
-#endif /* LISTS_H */
+#endif /* PALINDROME_H_ */
