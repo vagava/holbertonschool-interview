@@ -1,1 +1,1 @@
-<strong>Palindrome number<strong>
+# Palindrome number
