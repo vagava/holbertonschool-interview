@@ -1,6 +1,3 @@
-#include <stdlib.h>
-#include <stdio.h>
-
 #include "palindrome.h"
 
 /**
@@ -32,3 +29,4 @@ int main(int ac, char **av)
 
     return (EXIT_SUCCESS);
 }
+
